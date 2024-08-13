@@ -54,7 +54,7 @@ a:hover, a:active, a:focus {
 #huancaina-img {
   background-color: #ffa446;
   float: left;
-  width: 30%;
+  width: 25%;
   margin-right: 6px;
   margin-bottom: 6px;
   padding: 10px;
@@ -90,7 +90,7 @@ a:hover, a:active, a:focus {
 
 #ingrediente-picaron {
   position: absolute;
-  top: 3375px;
+  top: 3350px;
   left: 460px;
   width: 30%;
 }
