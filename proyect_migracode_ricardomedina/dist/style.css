@@ -48,7 +48,7 @@ a:hover, a:active, a:focus {
   padding-bottom: 6px;
   margin-left: 15%;
   margin-right: auto;
-  left:400;
+  left:440px;
 
 }
 
@@ -69,7 +69,7 @@ a:hover, a:active, a:focus {
 #ingrediente-huancaina {
   position: absolute;
   top: 2280px;
-  left: 440;
+  left: 440px;
   width: 30%;
 }
 
