@@ -69,7 +69,7 @@ a:hover, a:active, a:focus {
 
 #ingrediente-huancaina {
   position: absolute;
-  top: 2380px;
+  top: 2480px;
   left: 380px;
   width: 30%;
 }
@@ -85,14 +85,14 @@ a:hover, a:active, a:focus {
 
 #ingredientes-lomo {
   position: absolute;
-  top: 2940px;
+  top: 3040px;
   left: 440px;
   width: 30%;
 }
 
 #ingrediente-picaron {
   position: absolute;
-  top: 3450px;
+  top: 3550px;
   left: 440px;
   width: 30%;
 }
