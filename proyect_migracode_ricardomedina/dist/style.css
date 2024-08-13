@@ -1,0 +1,99 @@
+body {
+  background-color: #6f5846;
+  font-family: Georgia, Cambria, Times, "Times New Roman";
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  font-family: Georgia, Cambria, Times, "Times New Roman";
+}
+
+#titulo-peru {
+  color: #ab1616;
+}
+
+.nice-peru {
+  color: white;
+}
+
+.nice-activities {
+  color: white;
+}
+
+a:hover, a:active, a:focus {
+  background-color: #ffd6ff;
+}
+
+.ingredients-peru1 {
+  background-color: white;
+  font-family: serif;
+  line-height: 1.5em;
+  text-align: left;
+  border-top: 4px solid #080708;
+  border-bottom: 4px solid #080808;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.ingredients-peru {
+  background-color: white;
+  font-family: serif;
+  line-height: 1.5em;
+  text-align: left;
+  border-top: 4px solid #080708;
+  border-bottom: 4px solid #080808;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  margin-left: 40%;
+  margin-right: auto;
+}
+
+#huancaina-img {
+  background-color: #ffa446;
+  float: left;
+  width: 30%;
+  margin-right: 6px;
+  margin-bottom: 6px;
+  padding: 10px;
+}
+
+.photo {
+  border: 6px ridge gold;
+  margin: 10px;
+}
+
+#ingrediente-huancaina {
+  position: absolute;
+  top: 2280px;
+  left: 470px;
+  width: 30%;
+}
+
+.pasitoss {
+  background-color: #ffa446;
+  float: right;
+  width: 30%;
+  margin-right: 6px;
+  margin-bottom: 6px;
+  padding: 5px;
+}
+
+#ingredientes-lomo {
+  position: absolute;
+  top: 2840px;
+  left: 530px;
+  width: 30%;
+}
+
+#ingrediente-picaron {
+  position: absolute;
+  top: 3340px;
+  left: 550px;
+  width: 30%;
+}
+
+#links {
+  clear: both;
+}
