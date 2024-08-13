@@ -2,7 +2,7 @@ body {
   background-color: #a0700a;
   font-family: Georgia, Cambria, Times, "Times New Roman";
   font-size: 20px;
-  color:#e0d531;
+  
 }
 
 h1 {
@@ -74,7 +74,7 @@ a:hover, a:active, a:focus {
 
 #ingrediente-huancaina {
   position: absolute;
-  top: 2485px;
+  top: 2488px;
   left: 380px;
   width: 30%;
 }
@@ -90,14 +90,14 @@ a:hover, a:active, a:focus {
 
 #ingredientes-lomo {
   position: absolute;
-  top: 3070px;
+  top: 3080px;
   left: 440px;
   width: 30%;
 }
 
 #ingrediente-picaron {
   position: absolute;
-  top: 3575px;
+  top: 3585px;
   left: 440px;
   width: 30%;
 }
