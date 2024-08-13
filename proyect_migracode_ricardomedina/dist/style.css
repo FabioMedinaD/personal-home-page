@@ -56,7 +56,7 @@ a:hover, a:active, a:focus {
 #huancaina-img {
   background-color: #ffa446;
   float: left;
-  width: 20%;
+  width: 21%;
   margin-right: 6px;
   margin-bottom: 6px;
   padding: 10px;
@@ -69,7 +69,7 @@ a:hover, a:active, a:focus {
 
 #ingrediente-huancaina {
   position: absolute;
-  top: 2280px;
+  top: 2380px;
   left: 380px;
   width: 30%;
 }
@@ -85,14 +85,14 @@ a:hover, a:active, a:focus {
 
 #ingredientes-lomo {
   position: absolute;
-  top: 2840px;
+  top: 2940px;
   left: 440px;
   width: 30%;
 }
 
 #ingrediente-picaron {
   position: absolute;
-  top: 3350px;
+  top: 3450px;
   left: 440px;
   width: 30%;
 }
